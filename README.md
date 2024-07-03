@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this Repository you will find this file as well as [the data cleaning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Spoiler_Detection_Data_Cleaning.ipynb) and [the feature extraction and model traning notebook](. A link to the dataset has been provided below.
+In this Repository you will find this file as well as [the data cleaning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Spoiler_Detection_Data_Cleaning.ipynb) and [the feature extraction and model traning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Code_Initial_Results.ipynb). A link to the dataset has been provided below.
 
 ### Motive
 
