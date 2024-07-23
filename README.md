@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this Repository you will find this file as well as [the data cleaning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Spoiler_Detection_Data_Cleaning.ipynb) and [the feature extraction and model traning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Code_Initial_Results.ipynb). A link to the dataset has been provided below.
+In this Repository you will find this file as well as [the data cleaning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Spoiler_Detection_Data_Cleaning.ipynb) , [the feature extraction and model traning notebook](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Code_Initial_Results.ipynb) and [the completed notebook with project results](https://github.com/vaniasmithh/Spoiler-Detection-Model-2/blob/main/Code_Final_Results-2.ipynb). A link to the dataset has been provided below.
 
 ### Motive
 
@@ -35,16 +35,14 @@ Bag of Words is a technique used in text mining and NLP projects to represent da
 
 ### Cross Validation
 
-### Under Sampling
 ## Model Training and Evaluation
 
-Four Machine Learning models will be trained and evaluated for this project.
+Three Machine Learning models will be trained and evaluated for this project.
 
 ### Logistic Regression
 
-### Support Vector Machine
+### XGBoost Classifier
 
 ### Naive Bayes
 
-### Bi-LTSM
 
